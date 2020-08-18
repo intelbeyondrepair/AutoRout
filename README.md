@@ -12,6 +12,7 @@ work on your router.
 Installation:
 
 pip3 install -r requirements.txt 
+
 python3 Main.py
 
 You will need a webdriver. I used Chromes Webdriver,
