@@ -1,14 +1,6 @@
-######################################
-#                                    #
-#    By: Shawn Adams                 #
-#                                    #
-#    Don't copy my code without      #
-#    giving me credit!               #
-#                                    #
-######################################
+# By Shawn Adams
 
-
-
+Don't copy my code without giving me credit
 This script automates going into my router
 and forwarding a port.
 
